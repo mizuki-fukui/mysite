@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin-top: 10px;
+  height: 60px;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: 1170px;
+  margin: 30px auto;
+}
+
+.header-left  {
+  float: left;
+}
+
+.logo {
+  height: 60px;
+  display: inline-block;
+  float: left;
+}
+
+.title {
+  float: left;
+}
+
+.title h2 {
+  font-size: 28px;
+  color: #222222;
+}
+
+.title p {
+  font-size: 10px;
+  padding-left: 10px;
+  color: #808080;
+}
+
+.title h2 {
+  display: inline-block;
+  line-height: center;
+
+}
+
+.header-right {
+  float: right;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.header-right a {
+  display: inline-block;
+  line-height: center;
+  text-decoration: none;
+  padding-right: 25px;
+  color: #808080;
+  padding-top: 30px;
+  
+}
+
+.menu-icon {
+  color: #808080;
+  float: right;
+  font-size: 50px;
+  display: none;
+}
+
+
+
+.title1 {
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title1 h1 {
+  text-align: center;;
+  padding-top: 30px; 
+}
+
+.title1 img {
+  width: 100%;
+ 
+}
+
+.table {
+  height: 500px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10px;
+  height: 300px;
+}
+
+table tr,th {
+  border: 1px solid #808080;
+}
+
+table th {
+  padding-left: 10px;
+  background: #dcdcdc;
+}
+
+table td {
+  padding-left: 40px;
+}

@@ -1,0 +1,122 @@
+@media (max-width: 1000px) {
+
+
+  .footer-left {
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  .footer-right {
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+  .work {
+    text-align: center;
+  }
+
+
+  .work-left {
+    width: 100%;
+    padding: 0 10px 0 10px;
+  }
+
+  .work-right {
+    width: 100%;
+    padding: 0;
+  }
+
+
+  .responsive-map {
+    display: block;
+  }
+
+  .foote-left h1 {
+    padding: 0
+  }
+
+
+
+  .recruite {
+    text-align: center;
+    height: auto;
+  }
+
+  .recruite-left {
+    width: 100%;
+    padding: 0;
+    padding: 0;
+    padding-top: 20px;
+  }
+
+  .recruite-right {
+    width: 100%;
+  }
+
+  .footer-right iframe {
+    margin: 0 auto; 
+    display: none;
+  }
+
+
+
+
+}
+
+@media (max-width: 730px) {
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+  
+  .top-message h2 {
+    padding-left: 20px;
+  }
+
+  .work {
+    text-align: center;
+  }
+
+  .recruite {
+    text-align: center;
+    height: auto;
+  }
+
+
+  .footer-left {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 0;
+    text-align: center;
+  }
+
+  .footer {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  .responsive-map {
+    display: block;
+  }
+
+  .foote-left h1 {
+    padding: 0
+}
+
+  .footer-right {
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .footer-right iframe {
+    margin: 0 auto; 
+    display: none;
+  }
+
+}
